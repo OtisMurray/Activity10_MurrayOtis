@@ -1,8 +1,8 @@
 ---
-title: "Activity 9"
+title: "Activity 10"
 author: "Otis Murray"
 date: "2023-11-03"
-output: html_document
+output: pdf_document
 ---
 
 ```{r loadPackages, include=FALSE}
@@ -190,6 +190,7 @@ arrange(desc(Freq2))
 #view your wrangled data
 View(Tmp6)
 ```
+
 # File Path Screenshot
 ``` {r fileDirectory Screenshot}
 #Screenshot of file path
